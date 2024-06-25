@@ -11,8 +11,4 @@ Coding Challenges: Solutions to a variety of algorithmic challenges and competit
 Getting Started
 To get started, clone this repository to your local machine using the following command:
 
-bash
-Copy code
-git clone https://github.com/yourusername/DSA-Practice-Codes.git
-Contributions
 Contributions are welcome! If you have any improvements, bug fixes, or additional algorithms to share, feel free to open a pull request. Let's collaborate and make this repository a go-to resource for algorithm enthusiasts.
